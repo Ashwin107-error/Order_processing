@@ -16,7 +16,7 @@ MarkupSafe==3.0.2
 pika==1.3.2
 prompt_toolkit==3.0.50
 pycparser==2.22
-pymongo==10.10.10.10
+pymongo==4.6.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 rabbitmq==0.2.0
